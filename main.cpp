@@ -7,7 +7,7 @@ int main()
 {
     srand(time(NULL));
 
-    const char* TARGET = "102938719023871092837190827301982730918273091872309817230";
+    const char* TARGET = "hello world";
     const int POPULATION_SIZE = 100;
     const double MUTATION_RATE = 0.01f; // in %
 
